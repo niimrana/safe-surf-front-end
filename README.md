@@ -1,1 +1,1 @@
-# safe-surf-front-end
+<h1 align="center">SafeSurf</h1>
